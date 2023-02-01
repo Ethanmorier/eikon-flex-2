@@ -31,6 +31,7 @@
   flex-direction: row;
   align-items: flex-end;
 }
+
 /* 6. exercice-align-2 */
 .exercice-align-2 .container {
   display: flex;
@@ -40,6 +41,11 @@
 
 
 /* 7. exercice-align-3 */
+.exercice-align-3 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 
 /* 8. exercice-all-1 */
